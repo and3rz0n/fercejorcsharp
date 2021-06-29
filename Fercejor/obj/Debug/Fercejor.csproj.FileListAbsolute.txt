@@ -1,0 +1,12 @@
+C:\Users\ander\source\repos\Fercejor\Fercejor\obj\Debug\Fercejor.csproj.AssemblyReference.cache
+C:\Users\ander\source\repos\Fercejor\Fercejor\obj\Debug\Fercejor.Properties.Resources.resources
+C:\Users\ander\source\repos\Fercejor\Fercejor\obj\Debug\Fercejor.View.FrmClientes.resources
+C:\Users\ander\source\repos\Fercejor\Fercejor\obj\Debug\Fercejor.csproj.GenerateResource.cache
+C:\Users\ander\source\repos\Fercejor\Fercejor\obj\Debug\Fercejor.csproj.CoreCompileInputs.cache
+C:\Users\ander\source\repos\Fercejor\Fercejor\bin\Debug\Fercejor.exe.config
+C:\Users\ander\source\repos\Fercejor\Fercejor\bin\Debug\Fercejor.exe
+C:\Users\ander\source\repos\Fercejor\Fercejor\bin\Debug\Fercejor.pdb
+C:\Users\ander\source\repos\Fercejor\Fercejor\obj\Debug\Fercejor.exe
+C:\Users\ander\source\repos\Fercejor\Fercejor\obj\Debug\Fercejor.pdb
+C:\Users\ander\source\repos\Fercejor\Fercejor\obj\Debug\Fercejor.View.FrmPedidos.resources
+C:\Users\ander\source\repos\Fercejor\Fercejor\obj\Debug\Fercejor.View.FrmProductos.resources
